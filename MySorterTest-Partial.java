@@ -24,7 +24,7 @@ public class MySorterTest
 	// test set with all integer value
 	private double tc6[][] = { { 1, 2, 5, 4, 3 }, { 1, 2, 3, 4, 5 } };
 	// test set with negative number
-	private double tc7[][] = { { 1, 2, -99 }, { 1, 2, -99 } };
+	private double tc7[][] = { { 1, 2, 99 }, { 1, 2, 99 } };
 
 	private MySorter sorter;
 	
